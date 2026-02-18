@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+.env
+.env.*
+
+# Virtual environments (if present)
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# test / coverage
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# uploads/images
+uploads/
+images/
