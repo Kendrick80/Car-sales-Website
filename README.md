@@ -1,6 +1,6 @@
-# Car‑sales Website (Udemy car‑listing app)
+# Car‑sales Website (car‑listing app)
 
-A small Django application for managing car listings (part of your Udemy course).
+A small Django application for managing car listings (part of the course).
 It provides user Profiles, vehicle `Listing` objects, image uploads, and a
 `LikedListing` model for favouriting listings.
 
@@ -9,7 +9,7 @@ It provides user Profiles, vehicle `Listing` objects, image uploads, and a
 1. Create and activate a virtual environment
 
    ```powershell
-   cd Udemy/src/main
+   cd src/main
    python -m venv .venv
    .\.venv\Scripts\Activate.ps1
    ```
